@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Design AI - CreatorAI Hub</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+  <a href="index.html">← Back to Home</a>
+</header>
+
+<main>
+  <h2>Design & Image AI Tools</h2>
+  <p>AI tools for creating and editing images, graphics, thumbnails, and social media visuals.</p>
+
+  <section class="tool-list">
+    <article class="tool">
+      <h3>Canva AI</h3>
+      <p>Create social media images, thumbnails, and graphics using AI.</p>
+      <a class="btn small" href="https://www.canva.com" target="_blank">Visit tool</a>
+    </article>
+
+    <article class="tool">

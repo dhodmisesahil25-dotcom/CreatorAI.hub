@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CreatorAI Hub</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>CreatorAI Hub</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="video.html">Video AI</a></li>
+        <li><a href="blog-ai.html">Blog AI</a></li>
+        <li><a href="design.html">Design AI</a></li>
+        <li><a href="audio.html">Audio AI</a></li>
+        <li><a href="social.html">Social AI</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="categories">
+      <h2>AI Categories</h2>
+      <div class="grid">
+        <div class="card"><h3>Video AI</h3><a href="video.html">Open</a></div>
+        <div class="card"><h3>Blog AI</h3><a href="blog-ai.html">Open</a></div>
+        <div class="card"><h3>Design AI</h3><a href="design.html">Open</a></div>
+        <div class="card"><h3>Audio AI</h3><a href="audio.html">Open</a></div>
+        <div class="card"><h3>Social AI</h3><a href="social.html">Open</a></div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 CreatorAI Hub</p>
+  </footer>
+</body>
+</html>
